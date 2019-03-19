@@ -1,0 +1,71 @@
+body {
+	background-color: white;
+	margin: auto;
+	margin-top: 5em;
+	width: 80vw;
+}
+
+header {
+	 margin: auto;
+	 height: 15em;
+	 text-align: center;
+	 background-color: #727373;
+	 background-image: url(theOGs.jpg);
+	 width: 80vw;
+    font-family: cursive;
+        font-size: 29px
+}
+
+header h1 {
+	margin: auto;
+    font-family: monospace
+}
+
+nav {
+	background-color: black;
+	display: inline-block;
+	color: white;
+	position:fixed;
+	width: 100vw;
+	height: 3em;
+	top: 0;
+	left: 0;
+}	
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 1em;
+	text-transform: uppercase;
+}
+
+nav a {
+	color: white;
+}
+
+li {
+	display: inline-block;
+}
+
+td {
+	width: 8em;
+	height: 8em;
+	background-color: #727373;
+    overflow: hidden
+}
+
+table {
+	margin: auto;
+    font-size: 20px
+}
+img {
+    width: 35em
+}
+
+#"main-content" {
+   color: aqua
+}
+
+
+
+
