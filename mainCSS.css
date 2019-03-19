@@ -7,13 +7,16 @@ body {
 
 header {
 	 margin: auto;
-	 height: 15em;
+	 height: 20em;
 	 text-align: center;
 	 background-color: #727373;
 	 background-image: url(theOGs.jpg);
+	background-size: 80vw;
+	 background-repeat: no-repeat;
 	 width: 80vw;
     font-family: cursive;
-        font-size: 29px
+        font-size: 29px;
+	
 }
 
 ul img {
@@ -76,8 +79,9 @@ td img {
 	width: 15em;
 }
 
-#"main-content" {
-   color: aqua
+#main-content {
+	padding-top: 1em;
+	padding-bottom: 1em;
 }
 
 
