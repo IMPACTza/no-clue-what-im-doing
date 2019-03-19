@@ -16,6 +16,15 @@ header {
         font-size: 29px
 }
 
+ul img {
+	height: 1.5em;
+  width: auto;
+	top: 0.4em;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
 header h1 {
 	margin: auto;
     font-family: monospace
@@ -28,7 +37,8 @@ nav {
 	position:fixed;
 	width: 100vw;
 	height: 3em;
-	top: 0;
+	top: -1em;
+	padding-bottom: 0.5em;
 	left: 0;
 }	
 
@@ -62,9 +72,14 @@ img {
     width: 35em
 }
 
+td img {
+	width: 15em;
+}
+
 #"main-content" {
    color: aqua
 }
+
 
 
 
